@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS film (
 );
 
 INSERT INTO film (judul, sutradara, genre, tahun, negara, rating) VALUES
-('Aftersun', 'Charlotte Wells', 'Drama', 2022, 'Britania Raya', 7.6)
+('Aftersun', 'Charlotte Wells', 'Drama', 2022, 'Britania Raya', 7.6),
 ('Inception', 'Christopher Nolan', 'Sci-Fi', 2010, 'Amerika Serikat', 8.8),
 ('Parasite', 'Bong Joon-ho', 'Thriller', 2019, 'Korea Selatan', 8.5),
 ('Laskar Pelangi', 'Riri Riza', 'Drama', 2008, 'Indonesia', 7.8),
